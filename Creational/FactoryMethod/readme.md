@@ -7,3 +7,5 @@
     The Factory Method helps to instantiate new objects
     </li>
 </ul>
+
+<img src="FactoryMethod-diagram-UML.png" alt="UML here" />
